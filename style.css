@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'SF';
+    src: url(sf.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'SF Bold';
+    src: url(sf_bold.otf) format('truetype');
+}
+body {
+    font-family:'SF';
+    background-image:url(unknown.png);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+
+    color:white;
+}
+h1 {
+    font-family:'SF Bold';
+    font-size: 30px;
+    color:white;
+}
+h2 {
+    font-family:'SF Bold';
+    color:black;
+}
+.box {
+    background-color:#f2f2f2;
+    color:black;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    padding:15px;
+    border-radius:15px;
+    width:200px;
+    margin-top:15px;
+    cursor:pointer;
+    transition:0.2s ease-in-out all;
+}
+.box:hover {
+    transform: scale(1.05); 
+    background-color:#fbfbfb;
+}
+.logo {
+    width:fit-content;
+    height:fit-content;
+    margin-left:35px;
+    margin-top:-20px;
+}
