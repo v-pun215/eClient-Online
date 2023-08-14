@@ -10,9 +10,9 @@
 body {
     font-family:'SF';
     background-image:url(unknown.png);
-    background-size:cover;
-    background-repeat:no-repeat;
-    background-position:center;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
 
     color:white;
 }
