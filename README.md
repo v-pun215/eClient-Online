@@ -1,7 +1,8 @@
-# eClient Online
+![image](https://github.com/v-pun215/eClient-Online/assets/67716965/121a4bd6-1953-45f4-b8e8-9908e4e334c7)
+
 A Modified EaglerCraft(X) Launcher.
 
-![image](https://github.com/v-pun215/eClient-Online/assets/67716965/eeb0b3bd-8b2f-4d0b-ae44-226067f8726f)
+
 
 ## Note:
 This repository (or website) does not contain any of the original SOURCE CODE of Eaglercraft, just the compiled versions.
